@@ -11,7 +11,7 @@ Description should be clear and specific, mention page and what changes added
 
 > **04/10/2021**
 >
-> v1.0.0
+> v0.1.0
 >
 > * Add new text component.
 
@@ -19,6 +19,6 @@ Description should be clear and specific, mention page and what changes added
 
 **04/10/2021**
 
-v1.0.0
+v0.1.0
 
 * Add new file html feature-01.html.
